@@ -3,7 +3,7 @@ const descktopMenu = document.querySelector('.desktop-menu');
 const menuHamburguesa = document.querySelector('.menu');
 const mobileMenu = document.querySelector('.mobile-menu');
 const menuShoppingCart = document.querySelector('.navbar-shopping-cart');
-const shoppingCartProducts = document.querySelector('.product-detail');
+const shoppingCartProducts = document.querySelector('#shopping-cart-container');
 const cardsContainer = document.querySelector('.cards-container');
 
 //Evento click de menú para desktop
